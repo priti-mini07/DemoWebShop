@@ -11,4 +11,19 @@ I choose to automate the tabs check on the landing website page to make sure tha
 I choose to automate one end to end test case where the user is able to order a product without having to register itself
 
 
- 
+
+To import the project:
+
+Setup Eclipse
+Set up Maven
+Set Up JDK
+Click on File in Eclipse and select Import
+Select Git
+Select Projects From Git
+Click Clone URI
+Get the HTTPS Clone url of repository from BitBucket
+Paste the uri in the URI field
+Click Next, then Next, then Next
+Select Import Existing Project
+Click Next
+Click Finish
